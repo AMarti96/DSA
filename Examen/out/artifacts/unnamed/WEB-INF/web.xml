@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+		  http://java.sun.com/xml/ns/javaee/web-app_3_1.xsd"
+           version="3.0">
+
+
+
+    <servlet>
+        <servlet-name>Register</servlet-name>
+        <servlet-class>Register</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Register</servlet-name>
+        <url-pattern>/Register</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>Addetakemon</servlet-name>
+        <servlet-class>Addetakemon</servlet-class>
+
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Addetakemon</servlet-name>
+        <url-pattern>/Addetakemon</url-pattern>
+    </servlet-mapping>
+
+
+
+    <servlet>
+        <servlet-name>Addetakemon2</servlet-name>
+        <servlet-class>Parte3.Addetakemon2</servlet-class>
+
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Addetakemon2</servlet-name>
+        <url-pattern>/Addetakemon2</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>RegisterDB</servlet-name>
+        <servlet-class>Parte3.RegisterDB</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>RegisterDB</servlet-name>
+        <url-pattern>/RegisterDB</url-pattern>
+    </servlet-mapping>
+
+
+
+</web-app>
+

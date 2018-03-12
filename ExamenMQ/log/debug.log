@@ -1,0 +1,10 @@
+2016-11-14 19:13:20 INFO  Fibonacci:51 - El resultado sera.....
+2016-11-15 10:31:14 INFO  Fibonacci:51 - El resultado sera.....9.0
+2016-11-15 12:09:47 INFO  Fibonacci:51 - El resultado sera..... 7.0
+2016-11-15 21:23:02 INFO  Factory:18 - Se crea la cahce
+2016-11-15 21:23:02 INFO  Factory:28 - SIDA
+2016-11-15 21:23:17 INFO  Factory:28 - SIDA
+2016-11-15 21:23:53 INFO  Factory:28 - SIDA
+2016-11-16 15:35:08 INFO  Fibonacci:51 - El resultado sera..... 15.0
+2016-11-16 15:35:38 INFO  Factory:18 - Se crea la cahce
+2016-11-16 15:35:38 INFO  Factory:28 - SIDA

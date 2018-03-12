@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+p {
+    color: black;
+    text-align: center;
+}
+g{
+    color: red;
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-align: center;
+}
+h2{
+    color: black;
+    text-align: left;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+b{
+    color: black;
+    padding-left: 70px;
+    align-content: center;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+}
